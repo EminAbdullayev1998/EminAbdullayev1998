@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Frontend Developer
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
+![](https://komarev.com/ghpvc/?username=EminAbdullayev1998)
 
 <!--
 **EminAbdullayev1998/EminAbdullayev1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
