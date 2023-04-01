@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Frontend Developer
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 <!--
 **EminAbdullayev1998/EminAbdullayev1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
